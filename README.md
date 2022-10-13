@@ -1,5 +1,7 @@
 # LAB8DS
 
+ATENCIÓN - Moverse a la rama de master para ver archivos
+
 Utilice uno de los conjuntos de datos que ha explorado este semestre en alguno de los laboratorios 
 anteriores.  Asegúrese  de  haber  hecho  un  buen  análisis  exploratorio.  Utilice  ese  análisis  y  los 
 resultados  de  los modelos elaborados,  para  crear  una  visualización estática  a modo  de  infografía 
